@@ -568,3 +568,13 @@ del {
     }
 }
 
+
+
+@media screen and (min-height: 400px) {
+    .map {
+        width: 420px;
+        height: 300px;
+    }
+}
+
+
